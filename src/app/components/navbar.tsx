@@ -1,7 +1,7 @@
 "use client"
 
 import * as React from "react"
-import { Menu, Search, X } from "lucide-react"
+import { Menu, Search} from "lucide-react"
 
 import { Button } from "@/app/components/ui/button"
 import { Input } from "@/app/components/ui/input"

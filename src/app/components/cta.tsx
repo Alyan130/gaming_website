@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import pic1 from "@/public/fire.jpeg";
 import pic2 from "@/public/cta.jpeg";
 import { SiYoutubegaming } from "react-icons/si";
